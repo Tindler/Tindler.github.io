@@ -1,0 +1,37 @@
+.header{
+  text-align: center;
+}
+.header h1 {
+  font-size: 80px;
+  font-family: sans-serif;
+}
+.content{
+  text-align: center;
+}
+.box{
+  height: 20vh;
+  width: 20vh;
+  background: red;
+  display: table-cell;
+}
+.row{
+  display: table;
+  text-align: center;
+  table-layout: fixed;
+  width: 100%;
+  border-spacing: 10px;
+}
+
+#fire1{
+  background -image:
+    url("http://images.clipartpanda.com/flames-clipart-pi5GqqkiB.jpeg")
+}
+
+#fire2{
+  background -image:
+    url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18848683.jpg")
+}
+#fire3{
+  background-image:
+  url("https://thumbs.dreamstime.com/z/red-devious-extremely-hot-cartoon-chili-pepper-character-fire-mexican-chilli-smiling-making-face-36995790.jpg")
+}
